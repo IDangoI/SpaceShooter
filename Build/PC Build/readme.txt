@@ -1,0 +1,1 @@
+Both Data folder and exe file must be in same folder to execute.
